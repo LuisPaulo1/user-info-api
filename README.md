@@ -18,8 +18,10 @@ Importar o link no Postman: https://api.postman.com/collections/6556841-1d24b990
 - Maven
 - JUnit/Mockito
 
+## Como utilizar a API user-info-api em ambiente de produção
+- Importar no postman a collection do ambiente de produção e realizar as requisições no endpoint {host}/users/{cpf} informando um CPF
 
-## Como executar a API
+## Como executar a API user-info-api em ambiente local
 ### Pré-requisitos
 - Java 11
 
